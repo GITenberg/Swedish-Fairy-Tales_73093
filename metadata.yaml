@@ -1,0 +1,37 @@
+_repo: Swedish-Fairy-Tales_73093
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Myers, W. H.
+    gutenberg_agent_id: '56942'
+    url: http://www.gutenberg.org/2009/agents/56942
+creator:
+  author:
+    agent_name: Hofberg, Herman
+    alias: Hofberg, Johan Herman
+    birthdate: 1823
+    deathdate: 1883
+    gutenberg_agent_id: '56916'
+    url: http://www.gutenberg.org/2009/agents/56916
+    wikipedia: https://sv.wikipedia.org/wiki/Herman_Hofberg
+description: ''
+gutenberg_issued: '2024-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73093'
+language: en
+pgterms:marc904: https://archive.org/details/swedishfairytale00hofbrich
+pgterms:marc905: 20210118112652hofberg
+pgterms:marc906: '1888'
+pgterms:marc907: US
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This file was produced from images
+  generously made available by The Internet Archive/American Libraries.)
+publication_note: '  $aChicago :$bBelford-Clarke Co., $c1888, pubdate 1890.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Swedish Fairy Tales
+url: http://www.gutenberg.org/ebooks/73093
