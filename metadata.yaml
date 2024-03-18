@@ -5,6 +5,9 @@ contributor:
     agent_name: Myers, W. H.
     gutenberg_agent_id: '56942'
     url: http://www.gutenberg.org/2009/agents/56942
+covers:
+- cover_type: archival
+  image_path: 73093-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Hofberg, Herman
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56916
     wikipedia: https://sv.wikipedia.org/wiki/Herman_Hofberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73093#Swedish-Fairy-Tales
 gutenberg_issued: '2024-03-03'
 gutenberg_type: Text
 identifiers:
